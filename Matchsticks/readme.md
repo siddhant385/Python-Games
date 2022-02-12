@@ -13,11 +13,7 @@
  
  
 # SCREENSHOTS
-![Alt text](resources/Screenshot1.png?raw=true "screeen1")
-
-![Alt text](resources/Screenshot2.png?raw=true "screen2")
-
-![Alt text](resources/Screenshot3.png?raw=true "screen3")
+Will come soon
 
 
 # REQUIREMENTS:
