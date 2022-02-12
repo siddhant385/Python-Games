@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="resources/text.gif"></img>
+  <img src="resources/text .gif"></img>
 </p>
 
 -------------
