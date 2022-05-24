@@ -4,7 +4,7 @@
 </p>
 
 -------------
-<h1 align = "center">SMALL GAME DEVELOPED USING python FOR LEARNING GUI</h1>
+<h1 align = "center">꧁༒☬𝓢𝓜𝓐𝓛𝓛 𝓖𝓐𝓜𝓔 𝓓𝓔𝓥𝓔𝓛𝓞𝓟𝓔𝓓 𝓤𝓢𝓘𝓝𝓖 𝓟𝓨𝓣𝓗𝓞𝓝 𝓕𝓞𝓡 𝓛𝓔𝓐𝓡𝓝𝓘𝓝𝓖 𝓖𝓤𝓘☬༒꧂</h1>
  
 --------------
 <p align="center">
