@@ -4,7 +4,7 @@
 </p>
 
 -------------
-<h1 align = "center">SMALL GAMES DEVELOPED USING TKINTER AND SOME USING PURE PYTHON FOR LEARNING GUI</h1>
+<h1 align = "center">𝚂𝙼𝙰𝙻𝙻 𝙶𝙰𝙼𝙴𝚂 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝚄𝚂𝙸𝙽𝙶 𝚃𝙺𝙸𝙽𝚃𝙴𝚁 𝙰𝙽𝙳 𝚂𝙾𝙼𝙴 𝚄𝚂𝙸𝙽𝙶 𝙿𝚄𝚁𝙴 𝙿𝚈𝚃𝙷𝙾𝙽 𝙵𝙾𝚁 𝙻𝙴𝙰𝚁𝙽𝙸𝙽𝙶 𝙶𝚄𝙸</h1>
  
 --------------
  
