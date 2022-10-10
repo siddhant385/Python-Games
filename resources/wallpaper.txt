@@ -1,1 +1,1 @@
-https://images.pexels.com/photos/1766838/pexels-photo-1766838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+https://raw.githubusercontent.com/siddhant385/Python-Games/main/resources/wallpaper.png
